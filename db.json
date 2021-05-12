@@ -1,79 +1,90 @@
 {
-  "cardList": [
+  "productList": [
     {
-      "cardNumber": {
-        "first": "3000",
-        "second": "2222",
-        "third": "9856",
-        "fourth": "1309"
-      },
-      "cardExpiredDate": {
-        "month": "12",
-        "year": "23"
-      },
-      "cardOwner": "VALLISTA",
-      "securityCode": "044",
-      "cardPassword": {
-        "first": "3",
-        "second": "6"
-      },
-      "selectedCardInfo": {
-        "cardId": 1,
-        "name": "포코 카드",
-        "color": "#E24141"
-      },
-      "cardNickname": "Vallista",
-      "id": 10
+      "id": 1,
+      "src": "https://user-images.githubusercontent.com/40762111/117096676-c9fd6200-ada4-11eb-9ccb-8bd52ec86210.png",
+      "name": "PET보틀-정사각(420ml)",
+      "price": 43400,
+      "alt": "PET보틀-정사각(420ml)"
     },
     {
-      "cardNumber": {
-        "first": "5555",
-        "second": "4444",
-        "third": "4986",
-        "fourth": "3091"
-      },
-      "cardExpiredDate": {
-        "month": "09",
-        "year": "25"
-      },
-      "cardOwner": "DITTO",
-      "securityCode": "087",
-      "cardPassword": {
-        "first": "7",
-        "second": "5"
-      },
-      "selectedCardInfo": {
-        "cardId": 3,
-        "name": "공원 카드",
-        "color": "#73BC6D"
-      },
-      "cardNickname": "Ditto",
-      "id": 11
+      "id": 2,
+      "src": "https://user-images.githubusercontent.com/40762111/117096680-cc5fbc00-ada4-11eb-9332-c2b5459080f7.png",
+      "name": "PET보틀-밀크티(370ml)",
+      "price": 73400,
+      "alt": "PET보틀-밀크티(370ml)"
     },
     {
-      "cardNumber": {
-        "first": "7777",
-        "second": "6666",
-        "third": "4093",
-        "fourth": "1672"
-      },
-      "cardExpiredDate": {
-        "month": "01",
-        "year": "25"
-      },
-      "cardOwner": "POKO",
-      "securityCode": "832",
-      "cardPassword": {
-        "first": "6",
-        "second": "4"
-      },
-      "selectedCardInfo": {
-        "cardId": 8,
-        "name": "썬 카드",
-        "color": "#FBCD58"
-      },
-      "cardNickname": "POKO",
-      "id": 12
+      "id": 3,
+      "src": "https://user-images.githubusercontent.com/40762111/117096690-d1bd0680-ada4-11eb-94d3-71a8d8dfafb3.png",
+      "name": "PET보틀-정사각(370ml)",
+      "price": 41000,
+      "alt": "PET보틀-정사각(370ml)"
+    },
+    {
+      "id": 4,
+      "src": "https://user-images.githubusercontent.com/40762111/117096703-d8e41480-ada4-11eb-805c-98f5aeb20b75.png",
+      "name": "PET보틀-납작(450ml)",
+      "price": 39900,
+      "alt": "PET보틀-납작(450ml)"
+    },
+    {
+      "id": 5,
+      "src": "https://user-images.githubusercontent.com/40762111/117096714-ded9f580-ada4-11eb-882e-d2af84621d84.png",
+      "name": "PET보틀-단지(480ml)",
+      "price": 41000,
+      "alt": "PET보틀-단지(480ml)"
+    },
+    {
+      "id": 6,
+      "src": "https://user-images.githubusercontent.com/40762111/117096717-e00b2280-ada4-11eb-8589-8471bc7ca0a5.png",
+      "name": "PET보틀-납작(260ml)",
+      "price": 61800,
+      "alt": "PET보틀-납작(260ml)"
+    },
+    {
+      "id": 7,
+      "src": "https://user-images.githubusercontent.com/40762111/117096723-e13c4f80-ada4-11eb-89ec-8b38210c5a64.png",
+      "name": "PET보틀-원형(500ml)",
+      "price": 42200,
+      "alt": "PET보틀-원형(500ml)"
+    },
+    {
+      "id": 8,
+      "src": "https://user-images.githubusercontent.com/40762111/117096676-c9fd6200-ada4-11eb-9ccb-8bd52ec86210.png",
+      "name": "PET보틀-원형(600ml)",
+      "price": 44500,
+      "alt": "PET보틀-원형(600ml)"
+    },
+    {
+      "id": 9,
+      "src": "https://user-images.githubusercontent.com/40762111/117096676-c9fd6200-ada4-11eb-9ccb-8bd52ec86210.png",
+      "name": "PET보틀-정사각(420ml)",
+      "price": 43400,
+      "alt": "PET보틀-정사각(420ml)"
+    },
+    {
+      "id": 10,
+      "src": "https://user-images.githubusercontent.com/40762111/117096680-cc5fbc00-ada4-11eb-9332-c2b5459080f7.png",
+      "name": "PET보틀-밀크티(370ml)",
+      "price": 73400,
+      "alt": "PET보틀-밀크티(370ml)"
+    },
+    {
+      "id": 11,
+      "src": "https://user-images.githubusercontent.com/40762111/117096690-d1bd0680-ada4-11eb-94d3-71a8d8dfafb3.png",
+      "name": "PET보틀-정사각(370ml)",
+      "price": 41000,
+      "alt": "PET보틀-정사각(370ml)"
+    },
+    {
+      "id": 12,
+      "src": "https://user-images.githubusercontent.com/40762111/117096703-d8e41480-ada4-11eb-805c-98f5aeb20b75.png",
+      "name": "PET보틀-납작(450ml)",
+      "price": 39900,
+      "alt": "PET보틀-납작(450ml)"
     }
-  ]
+  ],
+  "shoppingCartList": [],
+  "orderItemList": []
 }
